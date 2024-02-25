@@ -17,6 +17,12 @@
 - 2 uncjowa miedz -> kalkulator 
 - dummy load electronics stack exchange
 - projektowanie pcb pod optotranzystor 
+- jakas blokada na pin od dac, aby np. przez jakis czas nie pluj 1
+- zabzp temperaturowe 
+- jakieś zabezpieczenie, że jak rasbar się wywali to piec powoli opada (duża stała RC + gpio które zawsze powinno podtzymywac)
+- analiza temp + może jakieś pomiary
+- jaka temp/watów bez radiatora ogarnie TO-92 220
+
 
 # notes 
 
@@ -46,6 +52,9 @@
 
 - ?? dlaczego zapomnieć o tym jako wzmacniaczu różnicowym
 
+- ?? co jeżeli weźmiemy odwracajac/nieodwraca przy napięciu symetryczyn ale 1 z inputów do masy
+
+- symulacja gdy wrzucimy jakis impuls a w układzie bd capy  (duży cap 100uf ogarnie noise  31:34-> sprawdzic jaka bd wtedy czestotliwosc)
 
 ### Buffer 
 [ ] done in LTspice?? 
@@ -63,6 +72,22 @@
 
 
 
+# Prototyp, test na małych napięciach 
+- [ ] pomierzyć dokładnie rezystancje elementów w temp pok przed pomiarem np. 4W siglentem 
+- [ ] przy testach na większych prądach (np. przy zasilaniu 48V) -> lepsze radiatory + radiator na rezystor Rl)
+
+> Obserwacja: 
+- odłączyłem Vin (wcześniej 0.1 V) - prąd podskoczył do 0.6 A -> przenalizować i obczaić jaki to bd miało wpływ gdy np. DAC się wyjebie 
+- ogólnie zrobić analize co się stanie jak X 
 
 
+
+## Docs 
+- opamp: https://pdf1.alldatasheet.com/datasheet-pdf/view/7456/NJRC/JRC4558D.html   https://www.rcscomponents.kiev.ua/datasheets/jrc45584i743ncft874nfdt34ufguygf43.pdf
+- tran: https://www.vishay.com/docs/91070/91070.pdf 
+
+
+## Pomiary po ostygnięciu 
+- Rs: 0.270 - 0.268
+- Rl: 22.09
 
