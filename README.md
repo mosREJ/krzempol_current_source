@@ -91,7 +91,8 @@
 - moze ten LL jak dziala ciepło
 - kalkulator pod sciezki
 - o tym, ze na poczatku chcialem dzialac na pradzie stalym i chujnia z moca -> dlaczego impulsowa
--      - analiza tego jaka bd moc (na lini DS) jezeli napiece X 
+-      - analiza tego jaka bd moc (na lini DS) jezeli napiece X
+-  dlaczego wyszło hujowo -> bo w stanie on tak czy siak bd dużo mocy + przełąanie dużo wygeneruje śmieci
 - o tym czym sa tranzysotry ibgt
 - jak dziala opamp -> moja droga jak to zrozumialem
        - moze o tym jak dzial para roznicowa
