@@ -31,9 +31,6 @@
 
 
 
-
-
-
 # How to opamp
 - jak dziala para różnicowa 
 - konwerter prąd napięcie 
@@ -64,14 +61,6 @@
 
 
 
-
-
-
-
-
-
-
-
 # Prototyp, test na małych napięciach 
 - [ ] pomierzyć dokładnie rezystancje elementów w temp pok przed pomiarem np. 4W siglentem 
 - [ ] przy testach na większych prądach (np. przy zasilaniu 48V) -> lepsze radiatory + radiator na rezystor Rl)
@@ -87,7 +76,25 @@
 - tran: https://www.vishay.com/docs/91070/91070.pdf 
 
 
+# Plan wyk
+
 ## Pomiary po ostygnięciu 
 - Rs: 0.270 - 0.268
 - Rl: 22.09
 
+
+
+# Plan wykład:
+- obliczanie temperatury pod Robudowy, radiatory itd
+- max temp danej obudowy
+- moze ten LL jak dziala ciepło
+- kalkulator pod sciezki
+- o tym, ze na poczatku chcialem dzialac na pradzie stalym i chujnia z moca -> dlaczego impulsowa
+-      - analiza tego jaka bd moc (na lini DS) jezeli napiece X 
+- o tym czym sa tranzysotry ibgt
+- jak dziala opamp -> moja droga jak to zrozumialem
+       - moze o tym jak dzial para roznicowa
+- jak dziala mosfet
+- wplyw temp na mosfet
+- konwerter prad napiecie
+- jak obliczy łe
