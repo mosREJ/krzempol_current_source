@@ -22,6 +22,7 @@
 - jakieś zabezpieczenie, że jak rasbar się wywali to piec powoli opada (duża stała RC + gpio które zawsze powinno podtzymywac)
 - analiza temp + może jakieś pomiary
 - jaka temp/watów bez radiatora ogarnie TO-92 220
+- OPAMP rail to rail
 
 
 # notes 
