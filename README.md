@@ -77,13 +77,33 @@
 - tran: https://www.vishay.com/docs/91070/91070.pdf 
 
 
-# Plan wyk
 
 ## Pomiary po ostygnięciu 
 - Rs: 0.270 - 0.268
 - Rl: 22.09
 
 
+
+# praca impulsowa 
+https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696 
+
+## YT
+> https://www.youtube.com/watch?v=DXyTHhUjxjk
+- 3:46 -> spoko rozumiem inducka bd wprowadzała zakłócenia (wyższe napięcia) -> i przez to bd niszczyć bramkę?
+- sprawdzic czy powermosfety rzeczywiscie maja wieksza pojemnosc bramki (sprawdzic z czego to moze wynikac)
+- sprawdzic jak sie bd ładował cap jak mu mocno ogranicze prąd ale zostawie takei same napięcie
+- ten efekt z 5:47
+- low vs high side
+> https://www.youtube.com/watch?v=wY6eGoBea9Y&list=PLbGlpmZLQWJceSkQv96j-L4YyuxS-E0Wm&index=2
+- 1:52
+- 2:39
+> https://www.youtube.com/watch?v=YeUbmOKi0Q4&list=PLbGlpmZLQWJceSkQv96j-L4YyuxS-E0Wm&index=3
+- 5:04 może o tym bardziej poczytac/czy to nam grozi przy DC (które na koniec dnia bd AC bo switch)
+- 6:16 jak to ma niby działać?
+>4 video
+- 5:21
+
+- video od EEV o bypas cap
 
 # Plan wykład:
 - obliczanie temperatury pod Robudowy, radiatory itd
