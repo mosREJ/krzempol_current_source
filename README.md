@@ -105,6 +105,12 @@ https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696
 
 - video od EEV o bypas cap
 
+
+
+# Problemy aktualnego rozwiazania:
+- jak wygląda SSR w środku: https://www.youtube.com/watch?v=DxEhxjvifyY 
+
+
 # Plan wykład:
 - obliczanie temperatury pod Robudowy, radiatory itd
 - max temp danej obudowy
