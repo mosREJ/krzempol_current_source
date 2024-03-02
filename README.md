@@ -110,6 +110,12 @@ https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696
 # Problemy aktualnego rozwiazania:
 - jak wygląda SSR w środku: https://www.youtube.com/watch?v=DxEhxjvifyY 
 
+- jak w triak
+       - przez to, że można odpalać traka w dowolnej fazie -> zakłócenia = może odpalać się za szybko/za wolno
+       - dlatego używa się snubber circuit https://en.wikipedia.org/wiki/Snubber
+       -?? czy my jesteśmy w stanie dać tyle miody na SSR przez pin od RPpico? -> ANS: chyba tak, bo optoizolacja to ogarnia, ale sprawdze dla sportu
+
+**!!!!!!!!!!!!!!!!! POMIERZYC PIEC PODCZAS PRACY OSCYL, PRĄD NAPIĘCIA ITD , SOFT POD OSCYL ***************
 
 # Plan wykład:
 - obliczanie temperatury pod Robudowy, radiatory itd
