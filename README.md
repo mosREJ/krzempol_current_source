@@ -103,7 +103,29 @@ https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696
 >4 video
 - 5:21
 
+> Totem pole 5 video 
+- 
+> increase speed https://www.youtube.com/watch?v=6pp1jj2oDvo&list=PLbGlpmZLQWJceSkQv96j-L4YyuxS-E0Wm&index=5 
+- fast switch = determined by reverse recovery characteristics of diode 
+- 3:10 niby jak ta dioda ma jest szybsza niż rezysotor? 
+- 5:40 niby jak eliminuje skoki od indukcji?
+- 
+
+> Pmos https://www.youtube.com/watch?v=S6-WRdviEwA&list=PLbGlpmZLQWJceSkQv96j-L4YyuxS-E0Wm&index=6
+- chujowe be większa Rdson i pojemność 
+- ??? krzempol: dlaczego tak?  
+  - jaki to może mieć wpływ na cmos?
+
+> https://www.youtube.com/watch?v=em5BuCFSuBw&list=PLbGlpmZLQWJceSkQv96j-L4YyuxS-E0Wm&index=7 
+
 - video od EEV o bypas cap
+
+
+
+# TO LEARN/TODO 
+- tns elektryka 
+  - jak mierzyć oscylem/napięcie siecowe po wyprostowaniu (EEVblog)
+- ogarnąć założenia projektowe np. opór minimalny 16 
 
 
 
