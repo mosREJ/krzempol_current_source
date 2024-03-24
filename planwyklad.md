@@ -26,3 +26,12 @@
 ## Gdy musimy mierzyć napięcie z gniazdka (powiązane z pkt wyżej)
 > tutaj uwaga na napięcia (limit oscyla) -> dzielnik napięcia aby sobie z tym poradzić 
 >
+
+
+# Źródła
+- te od jak w pcb 
+- ten soft z jednoego źródła
+
+# Po co wylewać mase/zasilanie
+
+# Grubość ścieżek
