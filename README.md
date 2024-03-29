@@ -23,7 +23,7 @@
 - analiza temp + może jakieś pomiary
 - jaka temp/watów bez radiatora ogarnie TO-92 220
 - OPAMP rail to rail
-
+- dlaczego nie można łączyć wejść https://electronics.stackexchange.com/questions/87780/driving-high-and-low-inputs-of-a-mosfet-driver-with-a-single-pwm-signal
 
 # notes 
 
@@ -139,6 +139,20 @@ https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696
 
 **!!!!!!!!!!!!!!!!! POMIERZYC PIEC PODCZAS PRACY OSCYL, PRĄD NAPIĘCIA ITD , SOFT POD OSCYL ***************
 
+
+
+# Ile prundu ze sterownika
+
+I = dQ/dT 
+e.g. 620 nC /
+
+# Temp 
+temp rosnie -> Vds rosnie 
+
+
+- Pmosfety większa Rdson on
+- ???? efekt millera?
+
 # Plan wykład:
 - obliczanie temperatury pod Robudowy, radiatory itd
 - max temp danej obudowy
@@ -154,3 +168,5 @@ https://www.ti.com/lit/ml/slua618a/slua618a.pdf?ts=1709092997696
 - wplyw temp na mosfet
 - konwerter prad napiecie
 - jak obliczy łe
+- o tym jak czegoś nie ma w ltspice od innych producentów to szukajcie od analgoa (miałem problem z odczytaniem schematu jak to się powinno podłącząć)
+- o tym zjawisku millera

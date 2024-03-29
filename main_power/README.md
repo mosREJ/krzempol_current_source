@@ -188,6 +188,8 @@ Do: layer1 horizontaly layer2 verticaly -> It's called **Ortogonal routing**
     - [ ] think how use it in our case 
 - [ ] via stiching
 - [ ] TVS for pi pico
+- [ ] gnd under pico 
+- [ ] switch for 5V bord vs usb
 
 
 
