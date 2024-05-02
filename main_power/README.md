@@ -190,6 +190,13 @@ Do: layer1 horizontaly layer2 verticaly -> It's called **Ortogonal routing**
 - [ ] TVS for pi pico
 - [ ] gnd under pico 
 - [ ] switch for 5V bord vs usb
+- [ ] smd mosfets (support mosfets)
+- [ ] analiza po zbudowaniu: https://www.youtube.com/watch?v=l_GPY1MqLy0&t=539s
+    - [ ] !!! problem z napięciami na drenie bo indukcyjność 140 uH
+- [ ] !!wpływa indukcyjności na całościową resytancję
+- [ ] niektóre drivery logic ale nie pwm
+- [ ] connecotr na zasilanie https://www.ebay.ca/itm/163248841920 https://www.mouser.pl/ProductDetail/Pomona-Electronics/3267?qs=wljcUlfpN7gLIe%2FWeOH%2Faw%3D%3D
+- rodzja kondensatora na Wejściu (MKP) !!?
 
 
 

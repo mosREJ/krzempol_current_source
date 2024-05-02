@@ -593,6 +593,14 @@
     [
       "a72760be-6d80-455d-a8b6-ea853b33554f",
       "pico_gate_driver"
+    ],
+    [
+      "f8b4b4ad-f85a-4355-8090-4781719ae896",
+      "PICO"
+    ],
+    [
+      "25b55ae8-0a62-4ce2-8db9-3925b2adafe9",
+      "converter"
     ]
   ],
   "text_variables": {}

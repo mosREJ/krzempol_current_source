@@ -1,9 +1,14 @@
+*/*
 
 *.swp
+!*.png
+!*.jpg
+!*.pdf
 # LTSpice 
-
+!*.asc
 
 # Kicad 
+fp-info-cache
+main_power-backups/**
 
-
-# Python 
+!*.md

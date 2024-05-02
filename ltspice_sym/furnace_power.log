@@ -1,11 +1,126 @@
 LTspice 24.0.9 for Windows
 Circuit: * Z:\home\rej\repos\krzempol_current_source\ltspice_sym\furnace_power.asc
-Start Time: Sun Mar 24 17:58:55 2024
+Start Time: Fri Apr  5 22:20:18 2024
+r10: both pins shorted together -- ignoring.
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = modified trap
-.OP point found by inspection.
-Total elapsed time: 0.469 seconds.
+WARNING: Node N022 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 2.2901e-14
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 2.2901e-14
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 1.163%
+Source Step = 1.19259%
+Source Step = 1.22218%
+Source Step = 1.25178%
+Source Step = 1.28137%
+Source Step = 1.31096%
+Source Step = 1.34055%
+Source Step = 1.37015%
+vernier = 0.00146484
+Source Step = 1.40714%
+Source Step = 1.45153%
+Source Step = 1.49592%
+Source Step = 1.54031%
+Source Step = 1.58469%
+vernier = 0.00219727
+Source Step = 1.63796%
+Source Step = 1.70455%
+Source Step = 1.77113%
+Source Step = 1.83771%
+Source Step = 1.9043%
+vernier = 0.0032959
+Source Step = 1.98087%
+Source Step = 2.08074%
+Source Step = 2.18062%
+Source Step = 2.2805%
+Source Step = 2.38037%
+vernier = 0.00494385
+Source Step = 2.49023%
+vernier = 0.00123596
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source stepping failed
+
+Pseudo transient terminated at 100.633 s, solution accepted ready or not!
+Ignoring empty pin current: Ix(u1:12)
+Ignoring empty pin current: Ix(u1:12)
+Changing Tseed to 9.76562e-09
+Changing Tseed to 9.76563e-11
+Changing Tseed to 9.76562e-08
+Changing Tseed to 9.76562e-12
+Heightened Def Con from 9.84937e-12 to 3.00985e-09
+Heightened Def Con from 9.28686e-09 to 1.01e-08
+Heightened Def Con from 2.0005e-05 to 2.0008e-05
+Heightened Def Con from 2.00088e-05 to 2.0009e-05
+Heightened Def Con from 2.00092e-05 to 2.00092e-05
+Heightened Def Con from 2.00093e-05 to 2.00096e-05
+Heightened Def Con from 2.00097e-05 to 2.00097e-05
+Heightened Def Con from 6.50512e-05 to 6.50512e-05
+Heightened Def Con from 6.50512e-05 to 6.50513e-05
+Heightened Def Con from 0.00010505 to 0.00010505
+Heightened Def Con from 0.000225051 to 0.000225051
+Heightened Def Con from 0.000225052 to 0.000225056
+Heightened Def Con from 0.000265047 to 0.000265048
+Heightened Def Con from 0.000385049 to 0.000385049
+Heightened Def Con from 0.000425049 to 0.000425049
+Heightened Def Con from 0.000465052 to 0.000465052
+Heightened Def Con from 0.000465053 to 0.000465053
+Heightened Def Con from 0.000465053 to 0.000465053
+Heightened Def Con from 0.000625051 to 0.000625051
+Heightened Def Con from 0.000665049 to 0.00066505
+Heightened Def Con from 0.00066505 to 0.00066505
+Heightened Def Con from 0.00066505 to 0.00066505
+Heightened Def Con from 0.000680009 to 0.00068001
+Heightened Def Con from 0.00074505 to 0.00074505
+Heightened Def Con from 0.000785049 to 0.000785049
+Heightened Def Con from 0.000785049 to 0.00078505
+Heightened Def Con from 0.000825051 to 0.000825051
+Heightened Def Con from 0.000865051 to 0.000865052
+Heightened Def Con from 0.00094505 to 0.00094505
+Heightened Def Con from 0.00102505 to 0.00102505
+Heightened Def Con from 0.00106505 to 0.00106505
+Heightened Def Con from 0.00114505 to 0.00114505
+Heightened Def Con from 0.00118504 to 0.00118504
+Heightened Def Con from 0.00118505 to 0.00118505
+Heightened Def Con from 0.00122506 to 0.00122506
+Total elapsed time: 3.835 seconds.
 
