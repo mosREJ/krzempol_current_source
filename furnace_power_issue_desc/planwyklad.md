@@ -35,3 +35,50 @@
 # Po co wylewać mase/zasilanie
 
 # Grubość ścieżek
+
+
+
+## Stary opis
+
+# Plan wykład:
+- obliczanie temperatury pod Robudowy, radiatory itd
+- max temp danej obudowy
+- moze ten LL jak dziala ciepło
+- kalkulator pod sciezki
+- o tym, ze na poczatku chcialem dzialac na pradzie stalym i chujnia z moca -> dlaczego impulsowa
+-      - analiza tego jaka bd moc (na lini DS) jezeli napiece X
+-  dlaczego wyszło hujowo -> bo w stanie on tak czy siak bd dużo mocy + przełąanie dużo wygeneruje śmieci
+- o tym czym sa tranzysotry ibgt
+- jak dziala opamp -> moja droga jak to zrozumialem
+       - moze o tym jak dzial para roznicowa
+- jak dziala mosfet
+- wplyw temp na mosfet
+- konwerter prad napiecie
+- jak obliczy łe
+- o tym jak czegoś nie ma w ltspice od innych producentów to szukajcie od analgoa (miałem problem z odczytaniem schematu jak to się powinno podłącząć)
+- o tym zjawisku millera
+- dodanie libek do ltspice
+- jak uzywac ltspice do przyblizenia ile ciepla/mocy na przykladzie mostka prostowniczego i tych zdjęć
+    - tutaj dodać info o active bridge rect
+    - rozne diody rozne Vf i to jeszcze w funkcji prądu
+- toole od texasa:
+    - do opampow 
+    - power designer 
+    - wspomniec o tinati dla IC od TI
+- toole od analoga 
+- jak dokumentacja danego elementu od danego providera nie dojeżdża 
+    - poszukaj odpowiednika u innego
+- ze w trafach druty są pokryte substancją izolującą i że jak za duża temp to ona się stopi i zwara elo
+- wspomniec o rodzajach dielktrów i ciekawostce z naprawy mery400
+
+
+
+
+
+
+
+
+
+
+
+

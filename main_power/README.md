@@ -53,7 +53,6 @@ https://login.ti.com/as/authorization.oauth2?response_type=code&scope=openid%20e
 
 
 
-
 # things to do/check:
 - led wskaźniki 
 - jumpery to lutowania 
