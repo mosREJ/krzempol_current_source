@@ -1,6 +1,6 @@
 # Next to do
 - [x] clear readmes 
-- [ ] check diff btw 18 V and 20 V flyback (if I will be able to easily change output voltage)
+- [ ] check diff btw 18 V and 20 V flyback (if I will be able to easily change output voltage) (https://webench.ti.com/power-designer/switching-regulator/customize/17?noparams=0)
 - [ ] clear repo
 - [ ] upgrade gitignore
 - [ ] analyze voltages, currents and powers of flyback components

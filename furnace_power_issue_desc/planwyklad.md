@@ -70,6 +70,10 @@
     - poszukaj odpowiednika u innego
 - ze w trafach druty są pokryte substancją izolującą i że jak za duża temp to ona się stopi i zwara elo
 - wspomniec o rodzajach dielktrów i ciekawostce z naprawy mery400
+- o tym jak początkowo chciałem zrobić to ze źródła prądowego 
+    - i że to słaby pomysł jak miało działać jako stałe
+    - wykres mocy jak dużo 
+    - o tym jak równoległe połączenie mosfetów generuje problemy potencjalne
 
 
 
